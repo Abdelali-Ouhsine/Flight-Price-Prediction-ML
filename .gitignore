@@ -1,0 +1,18 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Models
+# Ignore all joblib files in the models directory
+**/models/*.joblib
+# Ensure README.md is not ignored
+!**/models/README.md
