@@ -1,4 +1,4 @@
-# Flight Price Prediction -- Machine Learning Project
+# Flight Price Prediction - Machine Learning Project
 
 ## Overview
 
